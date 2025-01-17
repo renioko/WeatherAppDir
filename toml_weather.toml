@@ -1,0 +1,7 @@
+[api_params]
+url = 'http://api.weatherapi.com/v1/current.json'
+[api_params.headers]
+Content-Type = 'application/json'
+[api_params.params]
+key = 'key'
+q = "WS10"

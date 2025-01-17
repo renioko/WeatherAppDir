@@ -1,0 +1,13 @@
+
+{api_params : {
+'url': 'http://api.weatherapi.com/v1/current.json',
+'headers': {
+    'Content-Type': 'application/json',
+    }
+,
+'params': {
+    'key': 'key',
+    'q':'WS10'
+    }
+}
+}
