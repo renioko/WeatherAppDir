@@ -133,5 +133,5 @@ The program will print informative error messages and exit if an error occurs.
 
 ## Contact
 
-email address: renatta.gasior@gmail.com, 
+email address: regasior@gmail.com, 
 GitHub: https://github.com/renioko
